@@ -1,0 +1,15 @@
+.login {
+    color: rgb(111, 107, 107);
+    text-decoration: none;
+}
+
+.login:hover {
+    color: rgb(225, 66, 70);
+}
+
+.navigate {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 5px;
+    color: rgb(225, 66, 66);
+}

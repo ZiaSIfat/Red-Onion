@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Bagel and Cream Cheese",
+        "subtitle": "Bret",
+        "price": "8.99",
+        "img": "../src/images/breakfast/breakfast1.png"
+    },
+    {
+        "id": 2,
+        "name": "Breakfast Sandwich",
+        "subtitle": "Bret",
+        "price": "8.99",
+        "img": "../src/images/breakfast/breakfast2.png"
+    },
+    {
+        "id": 3,
+        "name": "Baked Chicken",
+        "subtitle": "Bret",
+        "price": "8.99",
+        "img": "../src/images/breakfast/breakfast3.png"
+    },
+    {
+        "id": 4,
+        "name": "Eggs Benedict",
+        "subtitle": "Bret",
+        "price": "8.99",
+        "img": "../src/images/breakfast/breakfast4.png"
+    },
+    {
+        "id": 5,
+        "name": "Toast Crossiant Fried Egg",
+        "subtitle": "Bret",
+        "price": "8.99",
+        "img": "../src/images/breakfast/breakfast5.png"
+    },
+    {
+        "id": 6,
+        "name": "Full Breakfast Fried Egg Toast",
+        "subtitle": "Bret",
+        "price": "8.99",
+        "img": "../src/images/breakfast/breakfast6.png"
+    }
+]

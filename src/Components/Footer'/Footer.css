@@ -1,0 +1,24 @@
+.footer-div {
+    background-color: black;
+    height: 300px;
+    font-size: 10px;
+}
+
+.logo-pic {
+    height: 40px;
+    width: 150px;
+}
+
+.footer-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.copy {
+    color: gray;
+}

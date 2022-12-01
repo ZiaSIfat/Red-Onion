@@ -1,0 +1,33 @@
+.detail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+
+.detail-img {
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 80%;
+
+}
+
+.button-div {
+    /* background-color: aqua; */
+    width: 90px;
+    height: 40px;
+    border: 1px solid lightslategray;
+    border-radius: 20px;
+}
+
+.add-btn {
+
+    width: 90px;
+    height: 40px;
+    border: 1px solid lightslategray;
+    border-radius: 20px;
+    background-color: rgb(234, 71, 139);
+
+}

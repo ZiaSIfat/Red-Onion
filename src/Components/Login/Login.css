@@ -1,0 +1,30 @@
+.login-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.login-form input {
+    font-size: 15px;
+    margin: 8px;
+    width: 250px;
+    border-radius: 8px;
+    border-color: white;
+    background-color: rgb(237, 237, 237);
+}
+
+.submit-btn {
+    background-color: rgb(225, 66, 66);
+    color: white;
+    border: 1px solid gray;
+    border-radius: 8px;
+    width: 250px;
+    margin: 8px;
+}
+
+.title-logo {
+    /* margin-left: 5px; */
+    height: 60px;
+
+}

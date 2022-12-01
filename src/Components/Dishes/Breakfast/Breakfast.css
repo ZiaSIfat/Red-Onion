@@ -1,0 +1,17 @@
+.dish-img {
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.dish-card {
+    border: 0;
+    margin-bottom: 10px;
+}
+
+.dish-card:hover {
+    border-radius: 11px;
+    background: white;
+    box-shadow: -20px 20px 40px #bcbcbc,
+        20px -20px 40px #ffffff;
+}
