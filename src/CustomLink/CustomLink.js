@@ -1,6 +1,6 @@
 import React from 'react';
 import { useMatch, useResolvedPath, Link } from 'react-router-dom';
-// import types {LinkProps} from 'react-router-dom';
+import { LinkProps } from 'react-router-dom';
 
 const CustomLink = ({ children, to, ...props }: LinkProps) => {
     let resolved = useResolvedPath(to);
@@ -8,7 +8,7 @@ const CustomLink = ({ children, to, ...props }: LinkProps) => {
 
     return (
         <div>
-            <Link style={{ borderBottom: match ? '2px solid orange' : 'none' }}
+            <Link style={{ borderBottom: match ? '2px solid rgb(220, 117, 117)' : 'none' }}
                 to={to}
                 {...props}>
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+
 import About from '../About/About';
 import Banner from '../Banner/Banner';
 import Dishes from '../Dishes/Dishes/Dishes';
