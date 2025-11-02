@@ -35,6 +35,7 @@ const Login = () => {
 
     if (user) {
         navigate(from, { replace: true });
+
     }
 
     return (
@@ -42,7 +43,7 @@ const Login = () => {
             <div>
                 <img className='title-logo mb-4' src={logo} alt="" />
                 <form onSubmit={handleLogin}>
-                    <input onBlur={handleEmailBlur} type="email" name="email" id="" placeholder='Email' required />
+                    <input onBlur={handleEmailBlur} type="email" placeholder='Email' required />
                     <br />
                     <input onBlur={handlePasswordBlur} type="password" name="password" id="" placeholder='Password' required />
                     <br />
